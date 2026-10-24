@@ -1,0 +1,10 @@
+[
+  {
+    "id": "42f65676-8faf-4bda-b265-08749579db26",
+    "title": "Persistence Test",
+    "content": "Checking whether my blog post survives a server restart.",
+    "author": "Akshith",
+    "category": "Testing",
+    "createdAt": "2026-10-24T16:48:49.378Z"
+  }
+]
